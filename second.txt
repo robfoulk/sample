@@ -1,0 +1,23 @@
+Command line primer
+
+dir - current directory contents
+mkdir - create a directory
+    mkdir c:\sample
+
+cd - change directory
+cd c:\sample
+
+--------------
+editing a file
+
+Create or edit a file
+code myfile.txt
+
+------------------
+Create a Git Repository
+git init 
+
+Check the status of a repository
+git status
+
+
