@@ -20,4 +20,15 @@ git init
 Check the status of a repository
 git status
 
+---- Add files
+git add filename.txt
 
+-- Save to the repository
+git commit -m "a save message"
+
+
+-- Check the working directory/staging directory
+git status
+
+-- check all the commits
+git log
