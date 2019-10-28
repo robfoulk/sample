@@ -32,3 +32,15 @@ git status
 
 -- check all the commits
 git log
+
+-- Duplicate a Repository
+git clone <remote location> <local directory>
+
+--define a remote url as a simple name
+git remote add origin <remote location>            origin is the conventional name for the "main" server
+
+-- push changes to uninitialized remote location
+git push -u origin master
+
+--push all other changes
+git push origin master
