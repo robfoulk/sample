@@ -26,7 +26,6 @@ git add filename.txt
 -- Save to the repository
 git commit -m "a save message"
 
-
 -- Check the working directory/staging directory
 git status
 
@@ -50,7 +49,6 @@ create a new branch
 git branch <name>
 ex: git branch feature/createscreen
 
-
 ----------
 switch to a branch
 git checkout <name>
@@ -62,5 +60,3 @@ git checkout -b newbranch
 ------------
 bring changes together
 git merge <branchName>
-
-
