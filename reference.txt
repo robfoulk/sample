@@ -67,3 +67,12 @@ bring changes together
 git merge <branchName>
 
 
+## Utilities
+
+PowerShell Core
+https://github.com/PowerShell/PowerShell/releases
+
+install-module posh-git
+import-module posh-git
+code $profile  (Edit $profile for PowerShell)
+
