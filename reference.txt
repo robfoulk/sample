@@ -44,6 +44,9 @@ git push -u origin master
 --push all other changes
 git push origin master
 
+shortcut: when using the default branch
+git push
+
 --------------
 create a new branch
 git branch <name>
@@ -60,3 +63,12 @@ git checkout -b newbranch
 ------------
 bring changes together
 git merge <branchName>
+
+## Utilities
+
+PowerShell Core
+https://github.com/PowerShell/PowerShell/releases
+
+install-module posh-git
+import-module posh-git
+code $profile  (Edit $profile for PowerShell)
