@@ -45,6 +45,9 @@ git push -u origin master
 --push all other changes
 git push origin master
 
+shortcut: when using the default branch
+git push
+
 --------------
 create a new branch
 git branch <name>
