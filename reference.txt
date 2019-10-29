@@ -56,6 +56,9 @@ switch to a branch
 git checkout <name>
 ex: git checkout feature/createscreen
 
+shortcut: create and checkout as a single step
+git checkout -b newbranch
+
 ------------
 bring changes together
 git merge <branchName>
