@@ -44,3 +44,20 @@ git push -u origin master
 
 --push all other changes
 git push origin master
+
+--------------
+create a new branch
+git branch <name>
+ex: git branch feature/createscreen
+
+
+----------
+switch to a branch
+git checkout <name>
+ex: git checkout feature/createscreen
+
+------------
+bring changes together
+git merge <branchName>
+
+
